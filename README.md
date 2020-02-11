@@ -2,7 +2,7 @@
 
 Below are some helpful resources on R and data science.
 
-Feel free to suggest your own.
+Feel free to suggest your own. If you add something, reorder roughly based on usefulness.
 
 # Data Analysis in R
  - [R for Data Science](https://r4ds.had.co.nz/) - Free, regularily updated online textbook by Hadley Wickham
