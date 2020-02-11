@@ -12,6 +12,6 @@ Feel free to suggest your own.
 - [from Data to Viz](https://www.data-to-viz.com/) - An comprehensive (and pretty) overview of the most common data visualisations
 
 # Project Organisation
-- [Happy git with R](https://happygitwithr.com/} -  A great introduction into using git with R
+- [Happy git with R](https://happygitwithr.com/) -  A great introduction into using git with R
 
 # Interesting articles on R, data science
