@@ -15,3 +15,6 @@ Feel free to suggest your own. If you add something, reorder roughly based on us
 - [Happy git with R](https://happygitwithr.com/) -  A great introduction into using git with R
 
 # Interesting articles on R, data science
+
+# UNSW Specific Resources
+- https://research.unsw.edu.au/research-technology-training-courses
